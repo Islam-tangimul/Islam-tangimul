@@ -44,10 +44,12 @@ Scientific literature reading · Data interpretation · Reproducible research pr
 
 ---
 
-## ⚡ Beyond Research I am interested in the **philosophy of science**
+## ⚡ Beyond Research 
+
+**I am interested in the **philosophy of science**
 
 > *“A theory that explains everything, explains nothing.”*  
-> — Karl Popper
+>                                           Karl Popper
 
 
 ---
