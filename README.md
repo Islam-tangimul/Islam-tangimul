@@ -2,9 +2,9 @@
 📊 Wet-lab–trained Data Science Enthusiast | 🧪 Computational Biology Learner  
 
 # Hello and welcome! 
-I enjoy exploring how **data science and computational tools** can be applied to **biological and biomedical research**, particularly in **genomics, microbiome studies, communicable and non-communicable diseases**.  
+I enjoy exploring how data science and computational tools can be applied to biological and biomedical research, particularly in **genomics, microbiome studies, communicable and non-communicable diseases**.  
 
-My goal is to pursue a **PhD in bioinformatics, computational biology, or data-driven translational/clinical research**, where I can combine **experimental biology with omics data ** to investigate complex biological questions.
+My goal is to pursue a **PhD in bioinformatics, computational biology, or data-driven translational/clinical research**, where I can combine experimental biology with omics data to investigate complex biological questions.
 
 ---
 
