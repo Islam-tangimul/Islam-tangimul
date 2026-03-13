@@ -14,8 +14,9 @@ My goal is to pursue a **PhD in bioinformatics, computational biology, or data-d
 - R programming and statistical analysis  
 - Python for biological data analysis  
 - Data visualization for biological datasets  
-- Reproducible research workflows (Snakemake)  
-- Bioinformatics tools for genomics analysis  
+- Bioinformatics tools for genomics analysis
+- Reproducible research workflows (Snakemake)
+- HPC basics (SLURM)
 
 ---
 
