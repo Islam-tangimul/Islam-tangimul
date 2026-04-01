@@ -18,6 +18,9 @@ My goal is to pursue a **PhD in bioinformatics, computational biology, or system
 - Reproducible research workflows (Snakemake)
 - HPC basics (SLURM)
 
+#Additional
+- Spatial Mapping (QGIS)
+
 ---
 
 ## 🧰 Tools & Skills (Learning and Practicing)
