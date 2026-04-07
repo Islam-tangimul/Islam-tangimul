@@ -25,16 +25,16 @@ My goal is to pursue a **PhD in bioinformatics, computational biology, or system
 
 ## 🧰 Tools & Skills (Learning and Practicing)
 
-### Programming
+### Programming (Basic)
 Python · R · Bash · Linux
 
-### Data Science
+### Data Science (Basic)
 Pandas · NumPy · Matplotlib · ggplot2 · tidyverse · Gapminder · DESeq2
 
-### Bioinformatics
+### Bioinformatics (Basic)
 NGS data basics · Microbiome analysis · Genomics workflows · Galaxy platform
 
-### Research Skills
+### Research Skills (Basic)
 Scientific literature reading · Data interpretation · Reproducible research practices
 
 ---
