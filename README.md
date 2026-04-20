@@ -41,7 +41,7 @@ Scientific literature reading · Data interpretation · Reproducible research pr
 
 ## 🚀 Projects
 
-- **Python for Biologists** – Python scripts for biological data analysis  
+- **Python for Biologists** – Python for biological data analysis  
 - **30 Days with R** – Statistical analysis and visualization exercises  
 - **Microbiome Data Analysis** – Computational exploration of microbial datasets  
 - **Linux & NGS Genomics Basics** – Notes and workflows for genomic data analysis  
