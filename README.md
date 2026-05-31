@@ -1,5 +1,5 @@
 # # Md. Tangimul Islam
-📊 Wet-lab–trained Data Science Enthusiast | 🧪 Computational Biology Learner  
+📊 Wet-lab–trained Data Science Enthusiast | Computational Biology Learner  
 
 # Hello and Welcome! 
 I enjoy exploring how data science and computational tools can be applied to biological and biomedical research, particularly in **genomics, microbiome studies, communicable and non-communicable diseases**.  
@@ -8,7 +8,7 @@ My goal is to pursue a **PhD in bioinformatics, computational biology, or system
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Bash scripting in Linux  
 - R programming and statistical analysis  
@@ -39,7 +39,7 @@ Scientific literature reading · Data interpretation · Reproducible research pr
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - **Python for Biologists** – Python for biological data analysis  
 - **30 Days with R** – Statistical analysis and visualization exercises  
@@ -55,21 +55,13 @@ I am interested in **philosophy of sciences**
 > *“A theory that explains everything, explains nothing.”*  
 > -Karl Popper
 
-
 ---
 
 ## 📫 Connect With Me
-
-📍 Bangladesh
-
 ✉️ Email: rifat.tangimul@gmail.com  
-
 🌐 Website: https://sites.google.com/view/mdtangimulislam  
-
 🔗 LinkedIn: https://linkedin.com/in/md-tangimul-islam-3814271a3  
-
 🐦 Twitter: https://twitter.com/tangimul_md
-
 💻 GitHub: https://github.com/Islam-tangimul
 
 
